@@ -152,6 +152,7 @@ main {
 }
 .table-slide {
 	display: inline-block;
+	margin-bottom: 10px;
 }
 
 .main--table-container {
@@ -391,12 +392,12 @@ main {
 	color: #757575;
 }
 .plans-container--slider {
-	/* display: flex;
-	flex-wrap: nowrap;
-	overflow-x: auto;
-	height: 316px;
-	justify-content: center;
-	scroll-snap-type: x proximity; */
+	/* display: flex; */
+	/* flex-wrap: nowrap; */
+	/* overflow-x: auto; */
+	height: 320px;
+	/* justify-content: center; */
+	/* scroll-snap-type: x proximity; */
 	overflow-x: scroll;
 	overflow-y: hidden;
 	white-space: nowrap;
